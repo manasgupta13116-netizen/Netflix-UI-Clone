@@ -6,7 +6,7 @@ This project was created to strengthen my understanding of **semantic HTML**, **
 
 ## 🚀 Live Demo
 
-🔗 **Live Website**: https://netflix-ui-clone-git-main-manasgupta13116-netizens-projects.vercel.app/
+🔗 **Live Website**: https://candid-muffin-603433.netlify.app
 
 ## 📸 Preview
 <img width="1897" height="820" alt="image" src="https://github.com/user-attachments/assets/153bce33-3149-45a4-88c7-2081ab395617" />
